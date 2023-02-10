@@ -105,7 +105,7 @@ static id convertBase64DataToNSData(id object) {
         }
     }
 
-    // Nothing to do, rteturn object as-is.
+    // Nothing to do, return object as-is.
     return object;
 }
 
